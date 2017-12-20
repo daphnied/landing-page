@@ -1,0 +1,14 @@
+body{
+  background: url('../img/glass3.jpg') no-repeat center fixed;
+  background-size: cover;
+}
+
+.hero{
+  color:#fff;
+  margin-top: 20%;
+  text-align: center;
+  font-size: 75px;
+  letter-spacing: -.05em;
+  line-height: 1.2em;
+  font-family: 'Revalia', cursive;
+}
